@@ -1,5 +1,3 @@
-Here's a sample README for your "Knowledge Graph Project" using "The Movies Dataset":
-
 ---
 
 # Knowledge Graph Project: The Movies Dataset
